@@ -1,0 +1,14 @@
+C:\Users\acpme\source\repos\StonksRound\StonksRound\bin\Debug\StonksRound.exe.config
+C:\Users\acpme\source\repos\StonksRound\StonksRound\bin\Debug\StonksRound.exe
+C:\Users\acpme\source\repos\StonksRound\StonksRound\bin\Debug\StonksRound.pdb
+C:\Users\acpme\source\repos\StonksRound\StonksRound\bin\Debug\StonksRound.xml
+C:\Users\acpme\source\repos\StonksRound\StonksRound\obj\Debug\StonksRound.vbprojAssemblyReference.cache
+C:\Users\acpme\source\repos\StonksRound\StonksRound\obj\Debug\StonksRound.Form1.resources
+C:\Users\acpme\source\repos\StonksRound\StonksRound\obj\Debug\StonksRound.Resources.resources
+C:\Users\acpme\source\repos\StonksRound\StonksRound\obj\Debug\StonksRound.vbproj.GenerateResource.cache
+C:\Users\acpme\source\repos\StonksRound\StonksRound\obj\Debug\StonksRound.vbproj.CoreCompileInputs.cache
+C:\Users\acpme\source\repos\StonksRound\StonksRound\obj\Debug\StonksRound.exe
+C:\Users\acpme\source\repos\StonksRound\StonksRound\obj\Debug\StonksRound.xml
+C:\Users\acpme\source\repos\StonksRound\StonksRound\obj\Debug\StonksRound.pdb
+C:\Users\acpme\source\repos\StonksRound\StonksRound\obj\Debug\StonksRound.GameEndStats.resources
+C:\Users\acpme\source\repos\StonksRound\StonksRound\obj\Debug\StonksRound.Creditsform.resources
